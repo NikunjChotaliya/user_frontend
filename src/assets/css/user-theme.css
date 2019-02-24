@@ -1,0 +1,66 @@
+body { padding:0; margin:0; background: #fcfcfc; color:#444; font-size: 15px;}
+
+
+.card-setting { margin-top: 60px;}
+.card-setting .card-title { padding-bottom: 22px; padding-top: 22px; border-bottom: 1px solid #f0f0f0;}
+.card-setting .card-title-text { font-size: 26px; font-family: 'source_sans_prosemibold';  color: #444444;}
+.card-setting .card-body-inner { padding:10px 0;}
+.card-setting .card-body p { font-size: 16px; margin-bottom: 30px;}
+.card-setting .card-body .btn { width: 285px; max-width: 100%;}
+.card-setting .form-group { margin-bottom: 30px;}
+.card-setting .card-footer { padding: 22px; border-top: 1px solid #f0f0f0;}
+.card-setting .card-footer .btn { margin-right: 15px;}
+.card-setting .card-footer.text-right .btn { margin-right: 0; margin-left: 15px;}
+
+
+
+/*---------------------------------- Card --------------------------------- */
+.card .form-horizontal .form-group { margin-right: inherit; margin-left: inherit; }
+.card { padding: 1px 0; margin-bottom: 30px; background-color: #fff; border-radius: 2px; }
+.card-body { padding-right: 16px; padding-left: 16px; margin-top: 16px; margin-bottom: 16px; color: rgba(0, 0, 0, .84); }
+.card-title { padding: 16px 16px 0 16px; margin-bottom: 16px; border-bottom: 1px solid transparent; border-top-left-radius: 3px; border-top-right-radius: 3px; }
+
+.card-title > .dropdown .dropdown-toggle { color: inherit; }
+.card-title > .dropdown .dropdown-toggle { color: inherit; }
+.card-title-text { margin-top: 0; margin-bottom: 0; color: inherit; }
+
+h2.card-title-text { margin-bottom: 2px; font-size: 1.5rem; font-weight: 400; }
+.card-subtitle-text { margin-bottom: 0; font-size: 14px; line-height: 1.6; opacity: .54; }
+.card-footer { display: table; width: 100%; padding: 8px 16px; content: ""; }
+.card-actions { padding: 8px 4px; }
+.card-actions .btn { margin-right: 4px; margin-bottom: 8px; margin-left: 4px; }
+.card-actions .btn:first-child { margin-left: 12px; }
+.card-actions .btn:last-child { margin-right: 12px; }
+.card-actions .btn.btn-flat { margin-right: 4px; margin-bottom: 0; margin-left: 4px; }
+.card-actions .btn { min-width: inherit; padding: 10px 8px; }
+.card-actions .btn.btn-fab { padding: 0; }
+
+/* Card Media Action */
+.card-media-inline .card-media { padding-right: 16px; padding-left: 16px; margin-top: 16px; }
+.card-media-inline .card-media h2.card-title-text { margin-top: 4px; }
+.card-footer-p16 { padding-right: 20px; padding-left: 20px; }
+.card-footer-no-border { padding-top: 0; border-color: transparent; }
+.card-list { padding-top: 8px; padding-bottom: 8px; background-color: #fff; }
+
+
+.actions {
+    cursor: pointer;
+    margin-right: 15px
+}
+
+.add-button-style {
+    margin-top: 10px;
+    margin-right: 10px
+}
+
+.user-list {
+    margin-top: 75px;
+}
+
+.no-user {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin-top: 200px;
+    margin-left: 500px;
+    color: #0c0c0c4a
+}
